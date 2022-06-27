@@ -1,0 +1,13 @@
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.exe
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.deps.json
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.runtimeconfig.json
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.runtimeconfig.dev.json
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.dll
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\bin\Debug\netcoreapp3.1\PackChallenge.pdb
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.csprojAssemblyReference.cache
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.AssemblyInfoInputs.cache
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.AssemblyInfo.cs
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.csproj.CoreCompileInputs.cache
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.dll
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.pdb
+C:\Users\avm\source\repos\PackChallenge\PackChallenge\obj\Debug\netcoreapp3.1\PackChallenge.genruntimeconfig.cache
